@@ -1,0 +1,14 @@
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\bin\Release\netcoreapp2.1\AssemblyInfo.cs
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\bin\Release\netcoreapp2.1\log4net.config
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\bin\Release\netcoreapp2.1\Corbion.dll.config
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\bin\Release\netcoreapp2.1\Corbion.deps.json
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\bin\Release\netcoreapp2.1\Corbion.runtimeconfig.json
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\bin\Release\netcoreapp2.1\Corbion.runtimeconfig.dev.json
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\bin\Release\netcoreapp2.1\Corbion.dll
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\bin\Release\netcoreapp2.1\Corbion.pdb
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\obj\Release\netcoreapp2.1\Corbion.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\obj\Release\netcoreapp2.1\Corbion.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\obj\Release\netcoreapp2.1\Corbion.AssemblyInfo.cs
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\obj\Release\netcoreapp2.1\Corbion.dll
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\obj\Release\netcoreapp2.1\Corbion.pdb
+C:\Users\thoma\Desktop\Projects\Corion Console app\Corbion\Corbion\obj\Release\netcoreapp2.1\Corbion.csprojAssemblyReference.cache
